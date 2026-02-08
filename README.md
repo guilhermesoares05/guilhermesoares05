@@ -16,6 +16,8 @@
 
 Sou um **Desenvolvedor Full Stack Sênior** com mais de **7 anos de experiência** no mercado. Meu trabalho une a precisão técnica do desenvolvimento de software com uma profunda curiosidade pela psique humana, explorando como o comportamento e a tecnologia se entrelaçam.
 
+<br/>
+
 * 🔭 Atualmente focado em arquiteturas robustas com **React**, **C#** e **SQL Server**.
 * 📚 Autor do livro **"O Pêndulo do Código: Por que fugimos do tédio para abraçar a dor?"**, uma obra que aplica psicologia ao mundo da tecnologia.
 * 🎯 Fora do código, dedico-me ao **tiro esportivo** e à musculação.
@@ -48,10 +50,6 @@ Sou um **Desenvolvedor Full Stack Sênior** com mais de **7 anos de experiência
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guilhermesoares05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermesoares05&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guilhermesoares05&theme=dark" />
 </div>
 
 ---
