@@ -71,7 +71,3 @@ Sou um **Desenvolvedor Full Stack Sênior** com mais de **7 anos de experiência
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/guilhermesoares05/guilhermesoares05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
